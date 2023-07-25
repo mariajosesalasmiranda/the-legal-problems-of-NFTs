@@ -4,6 +4,8 @@ This repository contains my bachelor's thesis in which I discuss Non-Fungible To
 I hope this repository is helpful for anyone interested in learning more about NFTs and the legal issues surrounding them.
 The thesis is in **italian**.
 
+![hashing, mining](<Screenshot 2023-07-26 015018.png>)
+
 ## Index
 The thesis is structured as follows:
 
