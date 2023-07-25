@@ -1,2 +1,2 @@
-# The-legal-problems-of-NFTs-
+# The legal problems of NFTs
 Bachelor's Thesis
