@@ -1,6 +1,6 @@
 # The legal problems of NFTs
 
-This repository contains my bachelor's thesis, which discusses Non-Fungible Tokens (NFTs) and the legal issues that arose following their creation. 
+This repository contains my bachelor's thesis in which I discuss Non-Fungible Tokens (NFTs) and the legal issues that arose following their creation. 
 I hope this repository is helpful for anyone interested in learning more about NFTs and the legal issues surrounding them.
 The thesis is in **italian**
 
