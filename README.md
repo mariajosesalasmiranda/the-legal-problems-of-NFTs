@@ -1,5 +1,6 @@
 # The legal problems of NFTs
 
+## Overview
 This repository contains my bachelor's thesis in which I discuss Non-Fungible Tokens (NFTs) and the legal issues that arose following their creation. 
 I hope this repository is helpful for anyone interested in learning more about NFTs and the legal issues surrounding them.
 The thesis is in **italian**.
@@ -27,3 +28,13 @@ The thesis is structured as follows:
 2. History and definition
 2. Regulations 
 3. The difference between diritto d'autore and copyright
+
+
+## License 
+This project is licensed under the MIT License. It is intended for educational purposes and personal use. For any commercial use or redistribution, please refer to the terms mentioned in the license file.
+
+---
+
+> [!Note]
+>  This repository is primarily for educational purposes
+  
